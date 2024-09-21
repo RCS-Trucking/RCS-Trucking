@@ -1,1 +1,20 @@
-
+[
+    {
+        "iconSrc": "/Assets/Partner-Icons/apex-logo.png",
+        "iconAlt": "Apex Logistics",
+        "heading": "Apex Logistics:",
+        "description": "Apex Logistics was founded on December 1st, 2021 with the goal of creating a friendly, relaxed, and professional virtual trucking company.",
+        "linkText": "TruckersMP Page",
+        "linkHref": "https://truckersmp.com/vtc/50865",
+        "linkColor": "blue"
+    },
+    {
+        "iconSrc": "/Assets/Partner-Icons/purple-dragons.png",
+        "iconAlt": "Purple Dragons",
+        "heading": "Purple Dragons:",
+        "description": "We are a UK Based VTC! We started off as friends running around in Euro Truck Simulator 2 doing deliveries and thought why not start our own VTC? growing community of drivers in TMP!",
+        "linkText": "TruckersMP Page",
+        "linkHref": "https://truckersmp.com/vtc/50865",
+        "linkColor": "purple"
+    }
+]
