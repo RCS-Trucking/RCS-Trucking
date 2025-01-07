@@ -9,12 +9,12 @@
         "linkColor": "blue"
     },
     {
-        "iconSrc": "/Assets/Partner-Icons/purple-dragons.png",
-        "iconAlt": "Purple Dragons",
-        "heading": "Purple Dragons:",
-        "description": "We are a UK Based VTC! We started off as friends running around in Euro Truck Simulator 2 doing deliveries and thought why not start our own VTC? growing community of drivers in TMP!",
-        "linkText": "TruckersMP Page",
-        "linkHref": "https://truckersmp.com/vtc/74387",
+        "iconSrc": "",
+        "iconAlt": "Slot Free",
+        "heading": "Slot Free:",
+        "description": "",
+        "linkText": "Link",
+        "linkHref": "",
         "linkColor": "purple"
     }
 ]
