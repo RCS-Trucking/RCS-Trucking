@@ -7,14 +7,5 @@
         "linkText": "TruckersMP Page",
         "linkHref": "https://truckersmp.com/vtc/50865",
         "linkColor": "blue"
-    },
-    {
-        "iconSrc": "",
-        "iconAlt": "Slot Free",
-        "heading": "Slot Free:",
-        "description": "",
-        "linkText": "Link",
-        "linkHref": "",
-        "linkColor": "purple"
     }
 ]
