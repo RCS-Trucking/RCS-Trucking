@@ -1,4 +1,4 @@
-# RCS-Trucking
+# RCS-Trucking/RCS-Trucking
 
 ![Banner](https://raw.githubusercontent.com/RCS-Trucking/RCS-Trucking/main/rcs-banner.jpg)
 
